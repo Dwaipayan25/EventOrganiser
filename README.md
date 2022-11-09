@@ -1,5 +1,4 @@
 # EventOrganiser
-# Event Organiser
 
 - It a smart conntract which will help organisers to host an event.
 - Organisers can host the events
